@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-demistifying-visual-transformer-vit",
+        },{id: "post-demystifying-visual-transformer-vit",
         
-          title: "Demistifying Visual Transformer (ViT)",
+          title: "Demystifying Visual Transformer (ViT)",
         
         description: "Paper Summary of Visual Transformer (ViT)",
         section: "Posts",
