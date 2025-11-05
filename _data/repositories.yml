@@ -5,10 +5,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - LLaVA-VL/LLaVA-NeXT
+  - ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+  - Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies
+  - Leader-board/OA-and-Interviews
+  - ipazc/mtcnn
+  - davidsandberg/facenet

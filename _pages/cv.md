@@ -1,16 +1,24 @@
 ---
+layout: redirected
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 4
+redirect_to: /assets/pdf/cv-2025.pdf
+---
+<!-- ---
 layout: cv
 permalink: /cv/
-title: "Rizky Agung Dwi Putranto"
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: https://drive.google.com/file/d/1MxFLljT1OHPJFNRuCtdpVgObowkzUrF9/view?usp=sharing
 description: "Curriculum vitae of Rizky Agung Dwi Putranto — Machine Learning / NLP / Computer Vision engineer."
 toc:
   sidebar: left
----
+--- -->
 
-## Contact
+<!-- ## Contact
 - Location: Yogyakarta, Indonesia  
 - Email: rizkyagung22@gmail.com  
 - Phone: +62 878-3937-7455  
@@ -53,4 +61,4 @@ Jul 2016 – Mar 2018 · Yogyakarta, Indonesia
 - "Automated Active Learning for Large Scale Ecommerce Product Categorization" (Tokopedia, 2023)  
 - "Multi-Modal Method To Identify Misrepresented Products In Ecommerce" (Tokopedia, 2021)  
 - "Data Strategy For Large Scale E-commerce Product Categorization" (Tokopedia, 2021)  
-- 1st Place — National Competitive Programming Techphoria (2017)
+- 1st Place — National Competitive Programming Techphoria (2017) -->
