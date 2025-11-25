@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-demystifying-visual-transformer-vit",
+        },{id: "post-build-your-first-ai-agent-with-google-s-adk-part-1",
+        
+          title: "🚀 Build Your First AI Agent with Google’s ADK (Part 1)",
+        
+        description: "Concise agentic tutorial using Google&#39;s ADK",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/google-adk-part-1/";
+          
+        },
+      },{id: "post-demystifying-visual-transformer-vit",
         
           title: "Demystifying Visual Transformer (ViT)",
         
