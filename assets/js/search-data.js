@@ -73,6 +73,9 @@ ninja.data = [{
           section: "News",},{id: "news-starting-a-new-position-as-algorithm-engineer-at-bytedance",
           title: 'Starting a new position as Algorithm Engineer at ByteDance! 🎉',
           description: "",
+          section: "News",},{id: "news-starting-a-new-position-as-automation-engineer-at-redawning",
+          title: 'Starting a new position as Automation Engineer at RedAwning! 🎉',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
