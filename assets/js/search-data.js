@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-build-your-first-ai-agent-with-google-s-adk-part-1",
+        },{id: "post-i-built-a-tool-to-translate-arabic-islamic-texts-fully-offline",
+        
+          title: "🕌 I Built a Tool to Translate Arabic Islamic Texts — Fully Offline...",
+        
+        description: "How I built Tarjim, an open-source offline OCR + translation pipeline for scanned Arabic kitab PDFs, using Surya OCR and Argos Translate with smart pivot routing for Indonesian.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/introducing-tarjim/";
+          
+        },
+      },{id: "post-build-your-first-ai-agent-with-google-s-adk-part-1",
         
           title: "🚀 Build Your First AI Agent with Google’s ADK (Part 1)",
         
