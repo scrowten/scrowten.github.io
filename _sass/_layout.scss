@@ -22,6 +22,10 @@ body.fixed-top-nav {
   padding-top: 56px;
 }
 
+#toc-sidebar.sticky-top {
+  top: 66px; // clear the fixed navbar (56px) + 10px breathing room
+}
+
 body.sticky-bottom-footer {
   // Remove padding below footer.
   padding-bottom: 0;
