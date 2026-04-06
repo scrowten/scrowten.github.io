@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-i-built-a-tool-to-translate-arabic-islamic-texts-fully-offline",
+        },{id: "post-quantization-explained-how-a-70b-model-fits-on-your-laptop",
+        
+          title: "🧮 Quantization Explained: How a 70B Model Fits on Your Laptop",
+        
+        description: "A beginner-friendly but technically deep guide to LLM quantization — covering precision formats, GGUF/GPTQ/AWQ, VRAM math, KV cache, and RAM offloading. Part 3 of the Self-Hosting LLMs series.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/local-llm-quantization-explained/";
+          
+        },
+      },{id: "post-i-built-a-tool-to-translate-arabic-islamic-texts-fully-offline",
         
           title: "🕌 I Built a Tool to Translate Arabic Islamic Texts — Fully Offline...",
         
