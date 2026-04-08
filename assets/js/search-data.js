@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-quantization-explained-how-a-70b-model-fits-on-your-laptop",
+        },{id: "post-why-run-your-own-llm-the-case-for-self-hosting-in-2026",
+        
+          title: "🏠 Why Run Your Own LLM? The Case for Self-Hosting in 2026",
+        
+        description: "The case for running open-source LLMs yourself — cost math, privacy, capability parity, and what hardware you actually need. Part 1 of the Self-Hosting LLMs series.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/local-llm-why-self-host/";
+          
+        },
+      },{id: "post-quantization-explained-how-a-70b-model-fits-on-your-laptop",
         
           title: "🧮 Quantization Explained: How a 70B Model Fits on Your Laptop",
         
