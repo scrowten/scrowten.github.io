@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-why-run-your-own-llm-the-case-for-self-hosting-in-2026",
+        },{id: "post-choosing-your-personal-ai-assistant-why-i-landed-on-nanoclaw",
+        
+          title: "🤖 Choosing Your Personal AI Assistant: Why I Landed on NanoClaw",
+        
+        description: "After months of evaluating OpenClaw, NanoClaw, PicoClaw, and a dozen other frameworks, here&#39;s the honest breakdown — and why simplicity, security, and customizability led me to one clear winner.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/choosing-your-personal-ai-assistant/";
+          
+        },
+      },{id: "post-why-run-your-own-llm-the-case-for-self-hosting-in-2026",
         
           title: "🏠 Why Run Your Own LLM? The Case for Self-Hosting in 2026",
         
