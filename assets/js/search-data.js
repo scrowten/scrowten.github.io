@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-choosing-your-personal-ai-assistant-why-i-landed-on-nanoclaw",
+        },{id: "post-️-terminal-system-monitors-why-i-keep-coming-back-to-htop",
+        
+          title: "🖥️ Terminal System Monitors: Why I Keep Coming Back to htop",
+        
+        description: "A five-year htop user tries btop, gets dazzled, gets confused, and finds out what actually matters in a system monitor.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/terminal-system-monitors-htop-btop/";
+          
+        },
+      },{id: "post-choosing-your-personal-ai-assistant-why-i-landed-on-nanoclaw",
         
           title: "🤖 Choosing Your Personal AI Assistant: Why I Landed on NanoClaw",
         
