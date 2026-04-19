@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-️-terminal-system-monitors-why-i-keep-coming-back-to-htop",
+        },{id: "post-gitsanity-arxiv-sanity-but-for-github",
+        
+          title: "🔭 GitSanity: arxiv-sanity, but for GitHub",
+        
+        description: "I built a personalized GitHub repo discovery engine that turns your own stars into a recommendation profile — so the good repos find you.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gitsanity-github-repo-discovery/";
+          
+        },
+      },{id: "post-️-terminal-system-monitors-why-i-keep-coming-back-to-htop",
         
           title: "🖥️ Terminal System Monitors: Why I Keep Coming Back to htop",
         
