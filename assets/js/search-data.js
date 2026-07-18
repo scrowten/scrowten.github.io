@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "Curriculum vitae of Rizky Agung Dwi Putranto — AI Automation Engineer, Machine Learning Engineer.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -139,8 +139,8 @@ ninja.data = [{
           section: "News",},{id: "news-starting-a-new-position-as-algorithm-engineer-at-bytedance",
           title: 'Starting a new position as Algorithm Engineer at ByteDance! 🎉',
           description: "",
-          section: "News",},{id: "news-starting-a-new-position-as-automation-engineer-at-redawning",
-          title: 'Starting a new position as Automation Engineer at RedAwning! 🎉',
+          section: "News",},{id: "news-starting-a-new-position-as-ai-automation-engineer-at-redawning",
+          title: 'Starting a new position as AI Automation Engineer at RedAwning! 🎉',
           description: "",
           section: "News",},{
         id: 'social-email',
