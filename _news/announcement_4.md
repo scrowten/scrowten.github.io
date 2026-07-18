@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting a new position as **Automation Engineer** at **RedAwning**! 🎉
+Starting a new position as **AI Automation Engineer** at **RedAwning**! 🎉

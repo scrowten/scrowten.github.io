@@ -25,12 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m **Rizky Agung Dwi Putranto** — a **Machine Learning Engineer / Data Scientist** passionate about designing **scalable automation systems**, **multilingual NLP**, and **multimodal models** that bridge research and production.
+Hi, I’m **Rizky Agung Dwi Putranto** — an **AI Automation Engineer** building production LLM systems, CI/CD infrastructure, and scalable ML pipelines.
 
-I’ve worked at **ByteDance** and **Tokopedia**, where I built and optimized large-scale machine learning pipelines for **product categorization**, **attribute extraction**, and **content safety**, impacting millions of users and driving measurable business outcomes.
+I currently work at **RedAwning** as the sole technical lead for the company’s AI initiative, where I architect LLM-based content generation and RAG-powered assistants, and built the CI/CD infrastructure from scratch using Jenkins and Docker. Previously, I was an **Algorithm Engineer** at **ByteDance** working on multilingual product attribute extraction, and a **Senior Data Scientist** at **Tokopedia** for five years, leading automated product categorization, multimodal content safety, and internal ML platforms.
 
 I’m especially interested in:
 - **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**
 - **Retrieval-Augmented Generation (RAG)** systems
+- **Agentic systems** and **LLM pipelines**
+- **CI/CD and infrastructure automation**
 - **Active learning and data-centric AI**
-- Scalable **ML infrastructure and automation**
