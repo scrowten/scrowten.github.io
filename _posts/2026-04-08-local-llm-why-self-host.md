@@ -286,9 +286,9 @@ The good news: you don't have to choose permanently. Many developers use local m
 This series walks through everything you need to go from curious to confident:
 
 - **Part 1**: Why Self-Host? ← *you are here*
-- **Part 2**: Framework Showdown — Ollama, LM Studio, llama.cpp, vLLM *(coming soon)*
+- **Part 2**: [Framework Showdown — Ollama, LM Studio, llama.cpp, vLLM](/blog/2026/local-llm-framework-showdown/)
 - **Part 3**: [Quantization Explained — How a 70B Model Fits on Your Laptop](/blog/2026/local-llm-quantization-explained/)
-- **Part 4**: Open Source Model Landscape — Benchmarks and Picking the Right One *(coming soon)*
+- **Part 4**: [Open Source Model Landscape — Benchmarks and Picking the Right One](/blog/2026/local-llm-model-landscape/)
 
 If you want to understand *why* a 70B model fits on a 24GB GPU, or what "Q4_K_M" means on a Hugging Face download page — jump to Part 3 now. Otherwise, Part 2 will walk you through the four main tools in detail.
 

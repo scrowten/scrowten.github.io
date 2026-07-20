@@ -500,10 +500,10 @@ The key ideas to remember:
 
 This series covers everything you need to go from "I've heard of LLMs" to running them confidently in your own environment:
 
-- **Part 1**: Why Self-Host? The Local LLM Primer *(coming soon)*
-- **Part 2**: Framework Showdown — Ollama, LM Studio, llama.cpp, vLLM *(coming soon)*
+- **Part 1**: [Why Self-Host? The Local LLM Primer](/blog/2026/local-llm-why-self-host/)
+- **Part 2**: [Framework Showdown — Ollama, LM Studio, llama.cpp, vLLM](/blog/2026/local-llm-framework-showdown/)
 - **Part 3**: Quantization Explained ← *you are here*
-- **Part 4**: Open Source Model Landscape — Benchmarks and Picking the Right Model *(coming soon)*
+- **Part 4**: [Open Source Model Landscape — Benchmarks and Picking the Right One](/blog/2026/local-llm-model-landscape/)
 
 ---
 
