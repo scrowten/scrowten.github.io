@@ -20,8 +20,8 @@ $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
-$github-green: #2da44e !default;
-$github-green-dark: #3fb950 !default;
+$teal-color: #0d9488 !default;
+$teal-color-dark: #2dd4bf !default;
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
@@ -36,7 +36,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($github-green, 0.05);
+$code-bg-color-light: rgba($teal-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
