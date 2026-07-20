@@ -1,13 +1,12 @@
 github_users:
   - scrowten
-  - rizkyputranto
 
 repo_description_lines_max: 2
 
 github_repos:
-  - LLaVA-VL/LLaVA-NeXT
-  - ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
-  - Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies
-  - Leader-board/OA-and-Interviews
-  - ipazc/mtcnn
-  - davidsandberg/facenet
+  - scrowten/gitsanity
+  - scrowten/learning-platform
+  - scrowten/learning-platform-api
+  - scrowten/learning-platform-ui
+  - scrowten/scrowten.github.io
+  - scrowten/fastapi-crud-auth
