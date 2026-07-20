@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-gitsanity-arxiv-sanity-but-for-github",
+        },{id: "post-️-open-source-model-landscape-benchmarks-and-picking-the-right-one",
+        
+          title: "🗺️ Open Source Model Landscape: Benchmarks and Picking the Right One",
+        
+        description: "A practical guide to the open-source LLM landscape in mid-2026 — model families, benchmark comparisons, size-tier recommendations, and how to pick the right model for your hardware and use case. Part 4 of the Self-Hosting LLMs series.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/local-llm-model-landscape/";
+          
+        },
+      },{id: "post-framework-showdown-ollama-vs-lm-studio-vs-llama-cpp-vs-vllm",
+        
+          title: "🥊 Framework Showdown: Ollama vs LM Studio vs llama.cpp vs vLLM",
+        
+        description: "A hands-on comparison of the four main local LLM frameworks — what each does best, performance benchmarks, and which one to pick for your use case. Part 2 of the Self-Hosting LLMs series.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/local-llm-framework-showdown/";
+          
+        },
+      },{id: "post-gitsanity-arxiv-sanity-but-for-github",
         
           title: "🔭 GitSanity: arxiv-sanity, but for GitHub",
         
